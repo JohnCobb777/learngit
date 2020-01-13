@@ -1,0 +1,1 @@
+This is a new temporary file called ex6.md
